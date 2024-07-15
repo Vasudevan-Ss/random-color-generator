@@ -1,0 +1,28 @@
+#box{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid;
+    width: 500px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    text-align: center;
+    /* box-shadow: 5px 5px 10px 3px rgb(66, 62, 62); */
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 10%;
+    
+}
+#random {
+    width: 25%;
+    height: 20%;
+    border-radius: 50%;
+    background-color: rgb(117, 47, 197);
+    border: none;
+    color: white;
+    font-size: 25px;
+}
+h1{
+    color: white;
+}
